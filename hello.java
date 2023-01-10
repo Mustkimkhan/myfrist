@@ -7,3 +7,4 @@ again edited in child branch
 i think i am in my master branch 
 
 >>>>>>> Stashed changes
+i made changes in git hub so i need checkout in the terminal git 
